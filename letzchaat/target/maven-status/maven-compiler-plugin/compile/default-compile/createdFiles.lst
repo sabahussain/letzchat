@@ -1,0 +1,6 @@
+com\dao\RegisterDAOImpl.class
+com\service\RegisterService.class
+com\controller\HomeController.class
+com\controller\RegisterController.class
+com\dao\RegisterDAO.class
+com\model\Register.class
